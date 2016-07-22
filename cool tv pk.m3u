@@ -1,0 +1,11 @@
+#EXTM3U
+ 
+#EXTINF:-1,"ARY NEWS" 
+tvg-logo="http://www.funrocker.com/blog/wp-content/uploads/2010/07/ARY-NEWS-FunRocker.Com_.jpg" group-title="ARY NEWS",
+http://158.69.229.29:1935/liveorigin/myStream/chunklist_w4017333.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://logos.wikia.com/wiki/File:ARY_News.png" group-title="ARY NEWS",
+http://158.69.229.29:1935/liveorigin/myStream/chunklist_w4017333.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4DRqNsa8KCQjAl5n40ZwhUI2BOyLArKg3-QkykWIJCCJxJNezv8Rg9t8" group-title="ARY NEWS",
+http://158.69.229.29:1935/liveorigin/myStream/chunklist_w4017333.m3u8
