@@ -1,62 +1,63 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4DRqNsa8KCQjAl5n40ZwhUI2BOyLArKg3-QkykWIJCCJxJNezv8Rg9t8" group-title="ARY NEWS",
+#EXTINF:-1 ARY NEWS
 http://158.69.229.29:1935/liveorigin/myStream/chunklist_w4017333.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4DRqNsa8KCQjAl5n40ZwhUI2BOyLArKg3-QkykWIJCCJxJNezv8Rg9t8" group-title="ARY NEWS ",
+#EXTINF:-1 ARY NEWS
 http://93.115.85.17:1935/ARYNEWS_2/myStream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdzX01BjcYoE5xHibIjwQALdVA5acBPX7X0iyBDinY5RZfQnBr_4ublkc" group-title="ARY DIGITAL",
+#EXTINF:-1 ARY DIGITAL
 http://149.202.205.24:1935/DIGITAL/myStream/chunklist_w229505312.m3u8?time=1467533941130
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzgz3j0VkWBEO3j9Hb1mQAlPk1bBkRx-VYxWR8TzeqlxUqM7YWaZKhbg" group-title="SAMAA NEWS",
+#EXTINF:-1 SAMAA NEWS
 http://samaatr.videocdn.scaleengine.net/samaatr-iphone/play/samaatr_264k.stream/chunklist_w1854962682.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJcRHuFojZTQ36MV5ed1JL05JaRs7MqPAkzjIfZi8KigBhRX4u4PiP1CE" group-title="EXPRESS NEWS ",
-http://streamer61.eboundservices.com/mobile/express/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfdBlaDpfZh5rQg1-I8HfrZdQSuuyIATdxMsEHCR394juaRHbH68anWVA" group-title="DAWN NEWS ",
-http://streamer61.eboundservices.com/mobile/dawn/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvXtWUQDgxKPzoKKSnfZVhUh639ikpb7_n-wLXDDdEQdkjScc5HyXXIng" group-title="DUNYA NEWS",
-http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQnvqQvThHFPQ6qiI9fuAlQSF81IPYYI2UCulCGuU57k6sGOGElJ0KJA" group-title="GEO NEWS",
-http://stream.jeem.tv/geo/geonews/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8Mz2_k74sgqLwfOufVctHstiv3zs8yxLdS6niM3e9A6X0xJxJGj2GCLg" group-title="EXPRESS ENTERTAINMENT",
+#EXTINF:-1 EXPRESS NEWS 
 http://streamer61.eboundservices.com/mobile/expressentertainment/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNK67vOyYvp9o2rox2A5o6kaRQyq6vXWiveKkQ9U5w6gpxmjyVQGGX-mU" group-title="HUM TV",
+#EXTINF:-1 DAWN NEWS 
+http://streamer61.eboundservices.com/mobile/dawn/playlist.m3u8
+
+#EXTINF:-1 DUNYA NEWS
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist.m3u8
+
+#EXTINF:-1 GEO NEWS
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+
+#EXTINF:-1 EXPRESS ENTERTAINMENT
+http://streamer61.eboundservices.com/mobile/expressentertainment/playlist.m3u8
+
+#EXTINF:-1 HUM TV
 http://streamer61.eboundservices.com/mobile/humtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQetBhFeSgnsIjYR0yXl6eFAJr5IOGWQOgICKciwlTP67zBjwKhkuNePeE" group-title="MASALA TV",
+#EXTINF:-1 MASALA TV
 http://streamer61.eboundservices.com/mobile/masalatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtACpegtN7ufmfwo-InyFjoBP2GvBqt7pPfTsHXLrNJ_upzbAY2sXHwuQ" group-title="ZAIQA TV",
+#EXTINF:-1 ZAIQA TV
 http://streamer61.eboundservices.com/mobile/zaiqa/playlist.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX9rfzIIbhnVLHY8DfgHOz6ol6y9dJdKmnBRODMmwiO_VEMcfVb1uYVeg" group-title="Animal Planet",
+#EXTINF:-0 Animal Planet
 http://80.80.160.168/live/1/live.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQf48VLqc2d5medtYvyG3a0WAQaPX2dSYZfKXLyuhtqmuGENx1k4jKs6JY" group-title="Discovery ID. HD",
+#EXTINF:-0 Discovery ID
 http://80.80.160.168/live/5/live.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNCJgmHnzO-fQXXf1OsNr4O5egD-LUo2vL9vmD8X5OJafrnluVMSKZzQ" group-title="Discovery Ch",
+#EXTINF:-0 Discovery Ch
 http://80.80.160.168/live/8/live.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTArZ5YxAIWecz8hQlFi4Lk0O0OteSSGEi4uf3SOqePXzdmzA5LSrBbSA" group-title="Discovery SCI",
+#EXTINF:-0 Discovery SCI
 http://80.80.160.168/live/9/live.m3u8
 
-#EXTINF:-0 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU79wEQo2O59WlvkGUxilPqZi46qKI18RwLMTxrTvng3FrWoEHxLvYqQ" group-title="TLC",
+#EXTINF:-0 TLC
 http://80.80.160.168/live/2/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 FOOD NETWORK
+http://live-1180.gv2.edge.filmon.com/live/20.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3f59f07839c4dab9f35b3d0505986b4d55f4137da33628c29baac51b56ce371829762c425d7fee56cc4530ec2ac6328e4fe96dfb8b6a7294dd6d5ac6ed95a997c005864f53d66dbe8fd2187c9c8a52e0307d7690fc4aa49465abf5cfe854ac8cba4c3b682593e5d7ad97756998dcd8dc7cf0e13785b822e51
 
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 FOOD NETWORK
+http://live-1180.gv2.edge.filmon.com/live/1829.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3f59f07839c4dab9f1569c9daa3dfd7e6e63ed08e00eca18d4981487831cb52ac35546d59b956bcd61d0ff6c9359446017d03b449a9a109d3034f5ec470c55a52f51559ab1c78b9994334dfb6e7db2379a42c17d86d9e791e67a9a5ece2215aaf692fcd5471f2908bf61943046bfe78e259c24ed7df17b9a8ed33da8b3cdccbb8
+
+
 
 
 
