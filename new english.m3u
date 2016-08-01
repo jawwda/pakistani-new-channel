@@ -1,29 +1,58 @@
-<item>
-<title>Animal Planet Europe (English Spoken)</title>
-<link>http://80.80.160.168/live/1/live.m3u8</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Animal%20Planet.png</thumbnail>
-</item>
+#EXTM3U
 
-<item>
-<title>Discovery Channel Europe (English Spoken)</title>
-<link>http://80.80.160.168/live/8/live.m3u8</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Discovery.png</thumbnail>
-</item>
+#EXTINF:0 tvg-name="Ary news" tvg-language="Russian" tvg-country="US" tvg-id="Ary news" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU44kk1u4xmwDLt-9hpJn0ihjSK3eqYiqiSzO4YaXbJg3BK0pcACRxXA" group-title="News",Ary news (News) (US) (Russian)
+http://158.69.229.29:1935/liveorigin/myStream/chunklist_w421453611.m3u8
 
-<item>
-<title>Discovery Science Europe (English Spoken)</title>
-<link>http://80.80.160.168/live/9/live.m3u8</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Disc.Science.png</thumbnail>
-</item>
+#EXTINF:0 tvg-name="Ary Digital" tvg-language="Russian" tvg-country="US" tvg-id="Ary Digital" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDv79FX5flWOvIwtU_W41UB0vIexVYBIgdc3rurjlHGG6YT1UKb2h30g" group-title="News",Ary Digital (News) (US) (Russian)
+http://149.202.205.24:1935/DIGITAL/myStream/chunklist_w229505312.m3u8?time=1467533941130
 
-<item>
-<title>Discovery Channel Europe (English Spoken)</title>
-<link>http://80.80.160.168/live/8/live.m3u8</link>
-<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Disc.Science.png</thumbnail>
-</item>
+#EXTINF:0 tvg-name="APLUS" tvg-language="Russian" tvg-country="US" tvg-id="APLUS" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShzQ-QHpZk0ca0TJwum2bjMB3V4IXA-eH5yZ0CMHDAHsVmI8inthRQ-Q" group-title="News",APLUS (News) (US) (Russian)
+http://streamer61.eboundservices.com/mobile/aplus/playlist.m3u8
 
-<item>
-<title>Tlc Channel Europe (English Spoken)</title>
-<link>http://80.80.160.168/live/2/live.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/cf/TLC.png</thumbnail>
-</item>
+#EXTINF:0 tvg-name="SAMAA NEWS " tvg-language="Russian" tvg-country="US" tvg-id="SAMAA NEWS " tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQe-EDAGz7WiD7H_qjNp7P24mw5gQ65j69URcnu_4c42TO-NUUj-22sLA" group-title="News",SAMAA NEWS (News) (US) (Russian)
+http://samaatr.videocdn.scaleengine.net/samaatr-iphone/play/samaatr_264k.stream/chunklist_w1854962682.m3u8
+
+#EXTINF:0 tvg-name="EXPRESS NEWS " tvg-language="Russian" tvg-country="US" tvg-id="EXPRESS NEWS " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPG3LAfWGPtoaclwobfonbaRPo-FzRtaFbPh21ZC4-SYOfesBYhb2ywQ" group-title="News",EXPRESS NEWS (News) (US) (Russian)
+http://streamer61.eboundservices.com/mobile/express/playlist.m3u8
+
+#EXTINF:0 tvg-name="DAWN NEWS" tvg-language="Russian" tvg-country="US" tvg-id="DAWN NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMHFZtuVGvnEx8d68svOWWZNRWv0XwW7gyOa40cCq3tCL5j4hZp4h1eQ" group-title="News",DAWN NEWS (News) (US) (Russian)
+http://streamer61.eboundservices.com/mobile/dawn/playlist.m3u8
+
+#EXTINF:0 tvg-name="DUNYA NEWS " tvg-language="Russian" tvg-country="US" tvg-id="DUNYA NEWS " tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrsQu9qduzAKwjKvszaMtXiz-UN9NGrQOXsLEG83m3FzCVSrCX4lVoKA" group-title="News",DUNYA NEWS (News) (US) (Russian)
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-name="GEO NEWS" tvg-language="Russian" tvg-country="US" tvg-id="GEO NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjlvG0NmOrxGrX61KrqzqrM2kYhd-YUYXEEl7DU1aKb184amw-Fw-9iY" group-title="News",GEO NEWS(News) (US) (Russian)
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+
+#EXTINF:0 tvg-name="EXPRESS TV " tvg-language="Russian" tvg-country="US" tvg-id="EXPRESS TV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWScEUthLLApOHc9WSsUqj9tFAS-u8K_DIWzTjF_UYZf3aL-C8N3azrek" group-title="News",EXPRESS TV (News) (US) (Russian)
+http://streamer61.eboundservices.com/mobile/expressentertainment/playlist.m3u8
+
+#EXTINF:0 tvg-name="HUM TV" tvg-language="Russian" tvg-country="US" tvg-id="HUM TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNK67vOyYvp9o2rox2A5o6kaRQyq6vXWiveKkQ9U5w6gpxmjyVQGGX-mU" group-title="News",HUM TV(News) (US) (Russian)
+http://streamer61.eboundservices.com/mobile/humtv/playlist.m3u8
+
+#EXTINF:0 tvg-name="MASALA TV" tvg-language="Russian" tvg-country="US" tvg-id="MASALA TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQetBhFeSgnsIjYR0yXl6eFAJr5IOGWQOgICKciwlTP67zBjwKhkuNePeE" group-title="News",MASALA TV(News) (US) (Russian)
+http://streamer61.eboundservices.com/mobile/masalatv/playlist.m3u8
+
+#EXTINF:0 tvg-name="ZAIQA TV" tvg-language="Russian" tvg-country="US" tvg-id="ZAIQA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtACpegtN7ufmfwo-InyFjoBP2GvBqt7pPfTsHXLrNJ_upzbAY2sXHwuQ" group-title="News",ZAIQA TV(News) (US) (Russian)
+http://streamer61.eboundservices.com/mobile/zaiqa/playlist.m3u8
+
+#EXTINF:0 tvg-name="Animal Planet" tvg-language="Russian" tvg-country="US" tvg-id="Animal Planet" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuKKAKmHxChwVr-Uv6yaxtKaBQqV8Ewx5DOKeTU_LKm-RqG9Qlt1-0Zg" group-title="News",Animal Planet (News) (US) (Russian)
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:0 tvg-name="Discovery Channel cCloudTV.ORG" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel cCloudTV.ORG" tvg-logo="http://i.imgur.com/Y8HHddy.jpg" group-title="Top10",Discovery Channel cCloudTV.ORG (Top10) (US) (English)
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:0 tvg-name="DISCOVERY SCIENCE HD CC SPANISH" tvg-language="English" tvg-country="US" tvg-id="DISCOVERY SCIENCE HD CC SPANISH" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTum5B_K0AtV5P0CsyN0YKW2dDvZ231rPWy3_9k_xQSWMvEOkRd98XX7Q" group-title="Entertainment",DISCOVERY SCIENCE HD CC SPANISH (Entertainment) (US) (English)
+http://80.80.160.168/live/9/live.m3u8
+
+#EXTINF:0 tvg-name="DISCOVERY SCIENCE HD CC SPANISH" tvg-language="English" tvg-country="US" tvg-id="DISCOVERY SCIENCE HD CC SPANISH" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4S1OvVW3FCGkvSXVHm9ZcBTPmSUBHkP9daycXRiUF3j7czgd_aCE39TU" group-title="Entertainment",DISCOVERY SCIENCE HD CC SPANISH (Entertainment) (US) (English)
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:0 tvg-name="TLC HD CC SPANISH" tvg-language="English" tvg-country="US" tvg-id="TLC HD CC SPANISH" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGLdKyKBlmOFooySkoRWuUc7gzwckBYZuuezqqI11SVY54FjwgplZD1g" group-title="Entertainment",TLC HD CC SPANISH (Entertainment) (US) (English)
+http://80.80.160.168/live/2/live.m3u8
+
+
+
+
+
+
